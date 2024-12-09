@@ -8,4 +8,7 @@ https://leetcode.com/problems/move-pieces-to-obtain-a-string/?envType=daily-ques
 https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/description/?envType=daily-question&envId=2024-12-01 (medium)
 
 **Dynamical Programming**
-https://leetcode.com/problems/two-best-non-overlapping-events/description/?envType=daily-question&envId=2024-12-08 (medium-hard)
+https://leetcode.com/problems/two-best-non-overlapping-events/description/?envType=daily-question&envId=2024-12-08 **(medium-hard)**
+
+**Prefix Sum**
+https://leetcode.com/problems/special-array-ii/description/?envType=daily-question&envId=2024-12-09 (medium)
