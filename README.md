@@ -12,3 +12,6 @@ https://leetcode.com/problems/two-best-non-overlapping-events/description/?envTy
 
 **Prefix Sum**
 https://leetcode.com/problems/special-array-ii/description/?envType=daily-question&envId=2024-12-09 (medium)
+
+**Sliding Window**
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ (medium) (Sliding window, hashtable)
