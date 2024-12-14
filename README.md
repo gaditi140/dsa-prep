@@ -16,6 +16,9 @@ https://leetcode.com/problems/special-array-ii/description/?envType=daily-questi
 **Sliding Window**
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ (medium) (Sliding window, hashtable) (right - left + 1 will give the longest substring)
 https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=daily-question&envId=2024-12-11 (need to really think about the condition otherwise very easy sliding window problem)
+https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-question&envId=2024-12-14(Use of sortedMap or priorityQueue to maintain max and min)
 
 **Heap**
 https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/?envType=daily-question&envId=2024-12-13
+
+
