@@ -21,4 +21,7 @@ https://leetcode.com/problems/continuous-subarrays/description/?envType=daily-qu
 **Heap**
 https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/?envType=daily-question&envId=2024-12-13
 
+**Binarytree**
+https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21 **DO IT**
+https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20 (medium)
 
