@@ -25,3 +25,6 @@ https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/
 https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2024-12-21 **DO IT**
 https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/description/?envType=daily-question&envId=2024-12-20 (medium)
 
+**Prefix sum**
+Difference Sum Array -> range type queries its like +/-/* any operation on the left side and opposite action int the right + 1 and then take a prefix sum of this diff array and then see it in action
+https://leetcode.com/problems/shifting-letters-ii/editorial/?envType=daily-question&envId=2025-01-06
